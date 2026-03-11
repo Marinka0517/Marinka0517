@@ -1,11 +1,11 @@
 # I'm LanJen Hsieh
 
-I'm currently a Computer Science student at Southern Utah University.
+I'm currently a **Computer Science** student at Southern Utah University.
 
 Before transferring to SUU, I studied at the Department of Computer Science & Information Engineering at National United University in Taiwan.
 
 I enjoy learning programming by building projects and trying different technologies.  
-Most of my projects are course projects where I explored web development, databases, and deep learning.
+Most of my projects are course projects where I explored **web development, databases, and deep learning**.
 
 My GitHub mainly stores the projects I worked on during my studies.
 
