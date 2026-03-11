@@ -28,15 +28,18 @@ Tools
 
 ### Manga Colorization Project
 A deep learning project that automatically colorizes black and white manga images using Pix2Pix and U-Net architecture.
+
 Repository: https://github.com/Marinka0517/manga_colorization_project
 
 ### Library Information System
 A web-based library management system built with PHP and MySQL.  
 The system supports different roles such as admin, librarian, and reader.
+
 Repository: https://github.com/Marinka0517/library_management_system
 
 ### University Website Project
 A fictional university website created using HTML, CSS, JavaScript, and Bootstrap.
+
 Repository: https://github.com/Marinka0517/university_website_project
 
 ## About Me
